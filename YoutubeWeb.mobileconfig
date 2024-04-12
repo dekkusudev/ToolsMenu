@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Youtube Web</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.E35CE645-8DD4-44F0-92BB-C4706076DF68.com.apple.webClip.managed.7F66B899-5ECA-4D6B-AEC3-96E8A15D19AC</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>7F66B899-5ECA-4D6B-AEC3-96E8A15D19AC</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>URL</key>
+			<string>https://m.youtube.com</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Youtube Web</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.E35CE645-8DD4-44F0-92BB-C4706076DF68</string>
+	<key>PayloadOrganization</key>
+	<string>ProfileCreator</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E35CE645-8DD4-44F0-92BB-C4706076DF68</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
